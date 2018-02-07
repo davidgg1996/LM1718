@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<libros>
+	<detalles_libros>
+		<codigo_ISBN>2324</codigo_ISBN>
+		<nombre>PC-GAMING</nombre>
+		<editorial>Lega</editorial>
+		<año>2018</año>
+		<autor>Jose Manuel</autor>
+	</detalles_libros>
+	<ejemplares>
+		<codigo_ejemplar>1432</codigo_ejemplar>
+	</ejemplares>
+	<prestamo>
+		<libro></libro>
+		<fecha></fecha>
+		<codigo_ejemplar></codigo_ejemplar>
+		<socio></socio>
+	</prestamo>
+	<socio>
+		<n_socio>343</n_socio>
+		<dni_socio>458383W</dni_socio>
+		<nombre_socio>Fabian Gomez</nombre_socio>
+		<dirección_socio>Calle Cazalla, Sevilla</dirección_socio>
+	</socio>
+</libros>

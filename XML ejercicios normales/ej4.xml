@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<facturas>
+	<facturas_code>
+		<codigos_facturas>1243AB</codigos_facturas>
+	</facturas_code>
+	<fecha_factura>
+		<emisión>12/2/2016</emisión>
+	</fecha_factura>
+	<factura_detalles>
+		<dni>343343R</dni>
+		<nombre>Jose Lopez</nombre>
+		<dirección>Calle Luis de Morales Brenes </dirección>
+		<codigo_postal>41310</codigo_postal>
+		<población>Sevilla</población>
+	</factura_detalles>
+	<detalles>
+		<cantidad_comprado>1493</cantidad_comprado>
+		<dominación>Madrid</dominación>
+		<precio>4,33</precio>
+		<IVA>21%</IVA>
+		<Descuento>10%</Descuento>
+	</detalles>
+	<importe_total>
+		<importe_total_producto></importe_total_producto>
+		<total_factura></total_factura>
+	</importe_total>
+</facturas>
